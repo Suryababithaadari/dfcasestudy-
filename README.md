@@ -7,7 +7,8 @@ PERFOMING THE OSINT ON THE WEBPAGE - that means to oprate and find all the infor
 
 *-http://regulation-dsq.top/login*
 
-![[Pasted image 20241102153419.png]]
+![Pasted image 20241102153419](https://github.com/user-attachments/assets/d99b6def-13bd-4270-b37d-74f921e7cd61)
+
 
 **ping** - to find the **ip address** of the web 
       - 192.151.194.100
